@@ -1,5 +1,17 @@
 #!/usr/bin/env python
 
+'''
+						Desenvolvido por:
+						
+		Lucas V. Araujo          <lucas.vieira.ar@disroot.org>
+		Matheus F. Nascimento    <fernandes.matheuscp@gmail.com>
+		Matheus H. Fontenele     <matheus.henriquefont@gmail.com>
+		Odilon F. Damasceno Neto <odilondamasceno@protonmail.com>
+
+Artigo: https://seer.ufrgs.br/reic/article/view/96282
+
+'''
+
 from math import acos, pi, sqrt
 
 def distancia(a, b):
