@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 
 '''
+	-- Solução Computacional para o problema do Ponto de Fermat --
+
 						Desenvolvido por:
 						
 		Lucas V. Araujo          <lucas.vieira.ar@disroot.org>
