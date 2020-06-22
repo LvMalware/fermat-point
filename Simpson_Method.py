@@ -17,7 +17,7 @@ Artigo: https://seer.ufrgs.br/reic/article/view/96282
 from math import acos, pi, sqrt
 
 def distancia(a, b):
-	#Retorna a distancia entre dois pontos atraves do teorema de Pitagoras
+	#Retorna a distancia entre dois pontos calculada com o teorema de Pitagoras
     return sqrt((a[0] - b[0]) ** 2 + (a[1] - b[1]) ** 2)
 
 def vertice_triangulo(a, b):
@@ -88,7 +88,7 @@ def interseccao(r, s):
 def angulo(r1, r2):
     prod = r1[0] * r2[0] + r1[1] * r2[1]
     md = sqrt(r1[0] ** 2 + r1[1] ** 2) * sqrt(r2[0] ** 2 + r2[1] ** 2)
-    return acos(prod/md) * (180/pi)
+    return acos(prod / md) * (180 / pi)
 
 def main():
     A = [float(input("X de A: ")), float(input("Y de A: "))]

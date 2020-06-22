@@ -1,7 +1,8 @@
-## Fermat Point
-> Computational solution for the Fermat Point Problem
+## Ponto de Fermat
+> Algoritmo para solucionar o problema do Ponto de Fermat
 
-This repository contains the code for a computational solution to the Fermat's Point problem, as described in our article. 
-Article: https://seer.ufrgs.br/reic/article/view/96282
+Este repositório contém o código-fonte de um algoritmo solução para o problema do Ponto de Fermat, conforme descrito em nosso artigo.
+Artigo: https://seer.ufrgs.br/reic/article/view/96282
 
-Anyone is granted permission to use, copy and modify this code as long as they give the developers proper credit.
+O uso (no sentido mais amplo do termo) deste algoritmo é permitido, de acordo com os termos da licença GNU GPL versão 3.0 (ou superior). Leia LICENSE para mais informações.
+
